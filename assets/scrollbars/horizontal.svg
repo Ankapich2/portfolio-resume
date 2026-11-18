@@ -1,0 +1,54 @@
+<svg width="143" height="17" viewBox="0 0 143 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_76_1990)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 0H0V16H1V1H15V0Z" fill="#DFDFDF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 1H1V15H2V2H14V1H2Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 17H0V16H15V0H16V17Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 1H14V15H1V16H15V1Z" fill="#808080"/>
+<path d="M2 2H14V15H2V2Z" fill="#C0C0C0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 12L10 5L9 5L9 6L8 6L8 7L7 7L7 8L6 8L6 9L7 9L7 10L8 10L8 11L9 11L9 12L10 12Z" fill="black"/>
+</g>
+<g filter="url(#filter0_iiii_76_1990)">
+<rect x="16" width="66" height="17" fill="#B8C0C1"/>
+</g>
+<rect x="82" width="45" height="17" fill="#DFDFDF"/>
+<g clip-path="url(#clip1_76_1990)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M142 0H127V16H128V1H142V0Z" fill="#DFDFDF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M129 1H128V15H129V2H141V1H129Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M143 17H127V16H142V0H143V17Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M142 1H141V15H128V16H142V1Z" fill="#808080"/>
+<path d="M129 2H141V15H129V2Z" fill="#C0C0C0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M133 5L133 12L134 12L134 11L135 11L135 10L136 10L136 9L137 9L137 8L136 8L136 7L135 7L135 6L134 6L134 5L133 5Z" fill="black"/>
+</g>
+<defs>
+<filter id="filter0_iiii_76_1990" x="16" y="0" width="66" height="17" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="2" dy="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.87451 0 0 0 0 0.87451 0 0 0 0 0.87451 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_76_1990"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-2" dy="-2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.501961 0 0 0 0 0.501961 0 0 0 0 0.501961 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect1_innerShadow_76_1990" result="effect2_innerShadow_76_1990"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="1" dy="1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect2_innerShadow_76_1990" result="effect3_innerShadow_76_1990"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-1" dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0392157 0 0 0 0 0.0392157 0 0 0 0 0.0392157 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect3_innerShadow_76_1990" result="effect4_innerShadow_76_1990"/>
+</filter>
+<clipPath id="clip0_76_1990">
+<rect width="16" height="17" fill="white"/>
+</clipPath>
+<clipPath id="clip1_76_1990">
+<rect width="16" height="17" fill="white" transform="translate(127)"/>
+</clipPath>
+</defs>
+</svg>
